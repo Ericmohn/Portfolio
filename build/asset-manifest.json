@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9300392f.chunk.css",
+    "main.js": "/static/js/main.ab4a7acf.chunk.js",
+    "main.js.map": "/static/js/main.ab4a7acf.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0faaa604.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0faaa604.js.map",
+    "static/js/2.38c297a4.chunk.js": "/static/js/2.38c297a4.chunk.js",
+    "static/js/2.38c297a4.chunk.js.map": "/static/js/2.38c297a4.chunk.js.map",
+    "static/js/3.46fa1efd.chunk.js": "/static/js/3.46fa1efd.chunk.js",
+    "static/js/3.46fa1efd.chunk.js.map": "/static/js/3.46fa1efd.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.9300392f.chunk.css.map": "/static/css/main.9300392f.chunk.css.map",
+    "static/js/2.38c297a4.chunk.js.LICENSE.txt": "/static/js/2.38c297a4.chunk.js.LICENSE.txt",
+    "static/media/Calculadora.9722a2be.gif": "/static/media/Calculadora.9722a2be.gif",
+    "static/media/FlappyBird.05b3f3a4.gif": "/static/media/FlappyBird.05b3f3a4.gif",
+    "static/media/LojaGames.187431f3.gif": "/static/media/LojaGames.187431f3.gif",
+    "static/media/logo3.166f8d07.png": "/static/media/logo3.166f8d07.png",
+    "static/media/logo4.807cf0d8.png": "/static/media/logo4.807cf0d8.png",
+    "static/media/tictactoe.eaede869.gif": "/static/media/tictactoe.eaede869.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0faaa604.js",
+    "static/js/2.38c297a4.chunk.js",
+    "static/css/main.9300392f.chunk.css",
+    "static/js/main.ab4a7acf.chunk.js"
+  ]
+}
